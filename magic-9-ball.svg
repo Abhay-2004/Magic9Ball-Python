@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#1a1a1a" />
+  <circle cx="100" cy="100" r="45" fill="#4a4a4a" />
+  <circle cx="100" cy="100" r="40" fill="#0c0c0c" />
+  <text x="100" y="115" font-family="Arial" font-size="48" fill="white" text-anchor="middle">9</text>
+  <text x="100" y="40" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Magic</text>
+  <text x="100" y="170" font-family="Arial" font-size="14" fill="white" text-anchor="middle">Ball</text>
+</svg>
